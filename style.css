@@ -1,0 +1,22 @@
+body {
+  background:blue;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  height:100%;
+  color: white;
+  text-align: center;
+}
+
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 1.4em;
+  text-transform: uppercase;
+}
